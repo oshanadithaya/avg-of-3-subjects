@@ -1,0 +1,8 @@
+for count in range (0,10):
+    x=int(input("Enter Maths Marks:"))
+    y=int(input("Enter Science Marks:"))
+    z=int(input("Enter English Marks:"))
+    total=x+y+z
+    average=total/3
+    print(average)
+    
